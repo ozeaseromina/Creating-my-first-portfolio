@@ -1,0 +1,144 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOMF3ZgA+aTUdOLKkSCdnMD",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ozeaseromina/Creating-my-first-portfolio/blob/main/Portf%C3%B3lio\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "uceBgV5xbR68"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "**Meu primeiro portifólio**"
+      ],
+      "metadata": {
+        "id": "aq5Y3FqhbS_A"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "goC-ZnPbbd7c"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Olá, seja bem-vindo!\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "T42om2w0dEW1",
+        "outputId": "6e911250-6e9a-463a-9081-c8b62565223b"
+      },
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Olá, seja bem-vindo!\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Estes são os meus primeiros aprendizados em linguagem Python\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "BUi-Qa5pdmS7",
+        "outputId": "a67a9c32-d710-4036-9404-b3cdab3c6bf9"
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Estes são os meus primeiros aprendizados em linguagem Python\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Neste repositório você encontrará vários exercícios e desafios úteis para aprender python, SQL, R e Date Science. Sugestões são bem vindas, para que eu possa aprimorar os conhecimentos.\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "QvK0Z4f_d0YR",
+        "outputId": "8bb6a309-263c-4147-dd82-ceb7f73bd930"
+      },
+      "execution_count": 4,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Neste repositório você encontrará vários exercícios e desafios úteis para aprender python, SQL, R e Date Science. Sugestões são bem vindas, para que eu possa aprimorar os conhecimentos.\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "WKGaCp4Td5Yl"
+      },
+      "execution_count": 4,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "G7hdkkeue7W5"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
